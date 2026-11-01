@@ -1,0 +1,6 @@
+ONLINE SHOPPING TRANSACTION REPORT
+----------------------------------
+Total Orders: 15
+Delivered Orders: 10
+Total Delivered Sales: Rs. 199300.00
+Average Order Value: Rs. 19930.00
